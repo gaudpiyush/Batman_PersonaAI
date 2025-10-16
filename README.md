@@ -19,12 +19,14 @@ This project showcases a **Persona AI Bot** built using Python and Gemini API. I
 
 ## 📁 Folder Structure
 
+```bash
 Batman_PersonaAI/
 ├── batman_persona.txt # Character definition and system prompt
 ├── main.py # Main script to interact with Gemini
 ├── .env # Environment file (not committed to GitHub)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
 
 ---
 
